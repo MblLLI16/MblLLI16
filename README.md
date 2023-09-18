@@ -16,9 +16,9 @@ How to reach me: [@Vyacheslalv](https://t.me/Vyacheslalv)
 
 ## My Tech stack
 
-- Programming languages: JavaScript, Python
+- Programming languages: JavaScript, Php
 - F Interface: HTML, CSS, React
 - Backend: Node.js , Express
-- Databases: MongoDB, PostgreSQL
+- Databases: MySQL, PostgreSQL
 - Tools: Git, VS Code
 
