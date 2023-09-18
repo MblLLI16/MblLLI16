@@ -1,4 +1,4 @@
-### About Me:
+### About Me :
 
 ### Web developer, full stack
 
@@ -8,7 +8,7 @@ I like **web development** and I want to become successful in this field. I also
 
 I have a favorite project "Time check" — I am creating an application for tracking and analyzing the time spent at the PC to improve productivity and achieve results in work, study and other areas of life.
 
-I am a big fan of hackathons for the unique atmosphere they offer and the opportunity they provide to develop both technical and soft skills.
+I really love hackathons for their atmosphere and the opportunity to develop hard and soft skills.
 
 In my leisure time, I enjoy cycling and staying active through various sports
 
