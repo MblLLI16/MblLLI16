@@ -12,7 +12,6 @@ I really love hackathons for their atmosphere and the opportunity to develop har
 
 In my leisure time, I enjoy cycling and staying active through various sports
 
-How to reach me: [@Vyacheslalv](https://t.me/Vyacheslalv)
 
 ## My Tech stack
 
